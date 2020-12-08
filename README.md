@@ -3,7 +3,7 @@
 ✏️ [BLOG](https://be-beee.github.io)<br>
 🔗 [LINKEDIN](https://www.linkedin.com/in/bokyungseo/)<br>
 
-![Be-beee's github stats](https://github-readme-stats.vercel.app/api?username=Be-beee&count_private=true&theme=tokyonight)
+![Be-beee's github stats](https://github-readme-stats.vercel.app/api?username=Be-beee&count_private=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Be-beee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Be-beee/Be-beee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
