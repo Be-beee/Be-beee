@@ -4,6 +4,8 @@
 🔗 [LINKEDIN](https://www.linkedin.com/in/bokyungseo/)<br>
 🙋‍♀️ [RESUME](https://www.notion.so/BoKyung-Seo-d9317de203654a7db7a0ff05df6c0dee)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bb0918})](https://solved.ac/{bb0918})
 ![Be-beee's github stats](https://github-readme-stats.vercel.app/api?username=Be-beee&count_private=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Be-beee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
