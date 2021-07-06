@@ -1,7 +1,6 @@
-### 안녕하세요! 반갑습니다 👋
+### 안녕하세요! 서보경입니다. 👋
 
-[`✏️BLOG`](https://be-beee.github.io) [`🔗LINKEDIN`](https://www.linkedin.com/in/bokyungseo/) [`🙋‍♀️RESUME`](https://www.notion.so/BoKyung-Seo-d9317de203654a7db7a0ff05df6c0dee)
-
+<a href="https://www.notion.so/BoKyung-Seo-d9317de203654a7db7a0ff05df6c0dee" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://be-beee.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-A66249?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bokyungseo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B63BC?style=flat-square&logo=linkedin&logoColor=white"/></a><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bb0918)](https://solved.ac/bb0918)<br>
 ![Be-beee's github stats](https://github-readme-stats.vercel.app/api?username=Be-beee&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Be-beee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -20,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [`✏️BLOG`](https://be-beee.github.io) [`🔗LINKEDIN`](https://www.linkedin.com/in/bokyungseo/) [`🙋‍♀️RESUME`](https://www.notion.so/BoKyung-Seo-d9317de203654a7db7a0ff05df6c0dee) -->
